@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PavithraDhanakotti
+- 👀 I’m interested in Code new scripts as well as interested in Arts and Crafts
+- 🌱 I’m currently learning Web Automation Testing with Selenium - Python
+- 💞️ I’m looking to collaborate with Challenging 
+- 📫 How to reach me www.linkedin.com/in/pavithra-d-
