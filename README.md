@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PavithraDhanakotti
-- 👀 I’m interested in Code new scripts as well as interested in Arts and Crafts
-- 🌱 I’m currently learning Test Automation and Web Automation Testing with Selenium - Python
+- 👀 I’m interested in challenging new code
+- 🌱 I’m currently learning Test Automation (API testing w/ Rest Assured, POSTMAN, TestNG, Maven, Selenium, CI/CD, Jenkins, SQL)
 - 📫 How to reach me www.linkedin.com/in/pavithra-d-
